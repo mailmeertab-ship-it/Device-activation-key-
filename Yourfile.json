@@ -16,5 +16,11 @@
         "key": "mirmod",
         "expirydate": "16-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "mirmode",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
