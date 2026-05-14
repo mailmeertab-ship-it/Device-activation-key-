@@ -14,13 +14,13 @@
     {
         "device_id": "dceaf9741c91298a",
         "key": "mirmod",
-        "expirydate": "16-06-2026",
+        "expirydate": "16-06-2025",
         "Allowoffline": false
     },
     {
         "device_id": "dceaf9741c91298a",
         "key": "mirmode",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
