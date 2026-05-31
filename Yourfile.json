@@ -22,5 +22,17 @@
         "key": "SARFARAZ",
         "expirydate": "15-06-2026",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "f4c650bc396f689b",
+        "key": "SEERAT",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f4c650bc396f689b",
+        "key": "SEERAT",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
