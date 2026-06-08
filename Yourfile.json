@@ -35,4 +35,46 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "ae3cb0e6728c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e678c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e78c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e678c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e628c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e628c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e628c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
 ]
