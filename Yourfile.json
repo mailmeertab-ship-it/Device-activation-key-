@@ -113,4 +113,28 @@
         "expirydate": "31-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "71d6d555759db9ff",
+        "key": "O6GDI8GI9",
+        "expirydate": "10-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741298a",
+        "key": "OWAIS",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceafc91298a",
+        "key": "OWAIS",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741298a",
+        "key": "OWAIS",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
 ]
