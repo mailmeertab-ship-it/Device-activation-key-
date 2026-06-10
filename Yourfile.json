@@ -185,4 +185,34 @@
         "expirydate": "11-07-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "757a429fa36e2450",
+        "key": "M9WYW8292",
+        "expirydate": "11-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a3792def34fa5d62",
+        "key": "MAROOF",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a3792def34fa5d62",
+        "key": "MAROOF",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a3792def34fa5d62",
+        "key": "MAROOF",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "a3792def34fa5d62",
+        "key": "MAROOF",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
 ]
