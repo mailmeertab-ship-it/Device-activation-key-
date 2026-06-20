@@ -305,4 +305,28 @@
         "expirydate": "24-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f0c9905622f75ed3",
+        "key": "S6DU5UR85",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8c83655a240800df",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8c83655a240800df",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "8c83655a240800df",
+        "key": "SARFARAZ",
+        "expirydate": "31-06-2026",
+        "Allowoffline": true
+    },
 ]
