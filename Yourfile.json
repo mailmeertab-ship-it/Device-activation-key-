@@ -329,4 +329,34 @@
         "expirydate": "26-06-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "c38dab228dc8732d",
+        "key": "O6F484D84",
+        "expirydate": "10-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "12-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "12-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "12-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "12-07-2026",
+        "Allowoffline": true
+    },
 ]
