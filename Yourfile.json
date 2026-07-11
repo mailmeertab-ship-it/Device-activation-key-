@@ -509,4 +509,16 @@
         "expirydate": "12-08-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "f7608e0865f6c218",
+        "key": "SUMAN",
+        "expirydate": "17-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "dceaf9741c91298a",
+        "key": "OWAIS",
+        "expirydate": "12-07-2026",
+        "Allowoffline": true
+    },
 ]
