@@ -521,4 +521,22 @@
         "expirydate": "30-07-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "07d1b8f289435ff1",
+        "key": "AFZAL30",
+        "expirydate": "18-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
 ]
