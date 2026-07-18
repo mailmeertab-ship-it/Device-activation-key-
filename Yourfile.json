@@ -539,4 +539,34 @@
         "expirydate": "02-07-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "3aea74906d70a257",
+        "key": "RAJENDRA",
+        "expirydate": "20-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ae3cb0e673f28c24",
+        "key": "SARFARAZ",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
 ]
