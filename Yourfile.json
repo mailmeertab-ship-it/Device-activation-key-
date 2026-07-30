@@ -635,4 +635,28 @@
         "expirydate": "12-08-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "83784853671b2d27",
+        "key": "SHAH",
+        "expirydate": "10-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "257f55cf2f01054f",
+        "key": "OWAIS",
+        "expirydate": "10-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "257f55cf2f01054f",
+        "key": "OWAIS",
+        "expirydate": "10-08-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "257f55cf2f01054f",
+        "key": "OWAIS",
+        "expirydate": "10-08-2026",
+        "Allowoffline": true
+    },
 ]
