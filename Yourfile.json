@@ -15,7 +15,7 @@
         "device_id": "dceaf9741c91298a",
         "key": "OWAIS",
         "expirydate": "10-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ae3cb0e673f28c24",
