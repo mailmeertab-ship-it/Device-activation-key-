@@ -585,7 +585,7 @@
         "device_id": "1d9bd1645cc89936",
         "key": "IRSHAD",
         "expirydate": "21-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "894caaccdfd6d844",
