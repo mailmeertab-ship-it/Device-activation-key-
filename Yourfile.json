@@ -573,7 +573,7 @@
         "device_id": "f645f96573af8216",
         "key": "SACHIN",
         "expirydate": "26-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "19edb9b4b412570e",
