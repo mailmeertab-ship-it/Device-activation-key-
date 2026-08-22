@@ -651,7 +651,7 @@
         "device_id": "ec1cef601e04eef8",
         "key": "RAVIPAWAR",
         "expirydate": "26-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "5a8dd788ae349382",
