@@ -157,9 +157,9 @@
     },
     {
         "device_id": "0e9c6e363c276948",
-        "key": "SONU",
+        "key": "KUMAR",
         "expirydate": "03-09-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "1f1da7cde5e470a6",
