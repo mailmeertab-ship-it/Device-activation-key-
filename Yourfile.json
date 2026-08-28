@@ -195,7 +195,7 @@
         "device_id": "2bcc78409856f13a",
         "key": "F748",
         "expirydate": "29-08-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ebdeb650558c4829",
