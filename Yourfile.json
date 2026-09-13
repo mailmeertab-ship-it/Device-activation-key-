@@ -651,7 +651,7 @@
         "device_id": "15f38eee8b0e4f97",
         "key": "RAVI15",
         "expirydate": "29-09-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "5a8dd788ae349382",
