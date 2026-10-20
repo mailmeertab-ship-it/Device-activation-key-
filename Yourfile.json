@@ -344,7 +344,7 @@
     {
         "device_id": "f645f96573af8216",
         "key": "SACHIN15",
-        "expirydate": "12-10-2026",
+        "expirydate": "05-11-2026",
         "Allowoffline": false
     },
     {
@@ -570,7 +570,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f645f96573af8216",
+        "device_id": "f645f9657f8216",
         "key": "SACHIN",
         "expirydate": "26-08-2026",
         "Allowoffline": true
