@@ -404,7 +404,7 @@
     {
         "device_id": "0b8f88b835c3e67d",
         "key": "RAJKAMAL",
-        "expirydate": "23-11-2026",
+        "expirydate": "09-12-2026",
         "Allowoffline": false
     },
     {
@@ -654,9 +654,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "6fd6cd2503505373",
-        "key": "MANDEEP",
-        "expirydate": "27-10-2026",
+        "device_id": "63e6ab233badae3a",
+        "key": "SURESH",
+        "expirydate": "25-11-2026",
         "Allowoffline": false
     },
 ]
